@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition-div {
+    transition: width 0.5s ease;
+}
+
+.transition-c {
+    transition: all 0.5s ease;
+}
+
+.transition-o {
+    transition: all 0.5s ease;
+}
